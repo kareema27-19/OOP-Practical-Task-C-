@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\bin\Debug\net8.0\project14-solution14.exe
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\bin\Debug\net8.0\project14-solution14.deps.json
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\bin\Debug\net8.0\project14-solution14.runtimeconfig.json
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\bin\Debug\net8.0\project14-solution14.dll
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\bin\Debug\net8.0\project14-solution14.pdb
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.AssemblyInfo.cs
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.dll
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\refint\project14-solution14.dll
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.pdb
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\project14-solution14.genruntimeconfig.cache
+C:\Users\User\Downloads\suwaiq-solutions\solution14\project14-solution14\obj\Debug\net8.0\ref\project14-solution14.dll
